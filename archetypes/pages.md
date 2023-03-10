@@ -4,5 +4,5 @@ date: {{ .Date }}
 image: images/writer.jpeg
 menu:
   main:
-    name: "About"
+    name: "Projects"
 ---
