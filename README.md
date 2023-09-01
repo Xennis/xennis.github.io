@@ -1,5 +1,13 @@
 # xennis.github.io
 
+## Development
+
+Build and serve the site:
+
+```shell
+hugo serve
+```
+
 ## Attribution
 
 **Font (`static/fonts`): Poppins**
