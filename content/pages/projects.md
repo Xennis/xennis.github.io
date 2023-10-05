@@ -29,7 +29,7 @@ That same behaviour can be enabled in the Marlin firmware via `RESTORE_LEVELING_
 
 [OctoPrint plugin page](https://plugins.octoprint.org/plugins/restorelevelingafterg28/)
 
-## Lifetime Clock App
+## Life Clock App
 
  > A clock to visualize your life to encourage making the most out of it.
 
@@ -37,7 +37,7 @@ The app shows you a counter and a graphical box view for your life. You can for 
 
 Having your lifetime as an app might help you to really make use of your time! Question yourself how you want to spend this time. In the end, it comes down to a matter of priority between all kinds of activities.
 
-[Project page](https://fabian-rosenthal.com/lifetime-clock-app/) &nbsp;|&nbsp; [Google Play store](https://play.google.com/store/apps/details?id=org.xennis.apps.lifetime_clock)
+[Google Play store](https://play.google.com/store/apps/details?id=org.xennis.apps.lifetime_clock)
 
 
 ## Hamburg stairs map
