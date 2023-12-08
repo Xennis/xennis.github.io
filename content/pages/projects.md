@@ -8,7 +8,15 @@ menu:
     weight: 3
 ---
 
-## Detailed OSM Maps: Walk & Hike
+## WunderDesk
+
+> The easiest way to build your help center with Notion
+
+WunderDesk is a service designed to help you establish a comprehensive help center for your customers. With WunderDesk, you have the flexibility to leverage Notion for crafting your articles, and WunderDesk seamlessly transforms this content into a user-friendly help center. This streamlined process empowers you to provide valuable information and support to your customers through an organized and accessible platform.
+
+[Project website](https://wunderdesk.app)
+
+## Green Walking: Walk & Hike Map (Android App)
 
 > The map shows all kinds of trails for walking and hiking.
 
