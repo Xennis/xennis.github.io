@@ -6,6 +6,16 @@
       "image": "images/social/github.svg"
     },
     {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/fabian.rosentha1/",
+      "image": "images/social/instagram.svg"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@fabian-rosenthal",
+      "image": "images/social/youtube.svg"
+    },
+    {
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/fabian-r-156750131/",
       "image": "images/social/linkedin.svg"
