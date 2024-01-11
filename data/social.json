@@ -1,14 +1,19 @@
 {
   "links": [
     {
-      "name": "GitHub",
-      "url": "https://github.com/Xennis",
-      "image": "images/social/github.svg"
-    },
-    {
       "name": "Instagram",
       "url": "https://www.instagram.com/fabian.rosentha1/",
       "image": "images/social/instagram.svg"
+    },
+    {
+      "name": "Threads",
+      "url": "https://www.threads.net/@fabian.rosentha1",
+      "image": "images/social/threads.svg"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Xennis",
+      "image": "images/social/github.svg"
     },
     {
       "name": "YouTube",
