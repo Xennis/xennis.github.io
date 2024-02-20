@@ -1,24 +1,24 @@
 {
   "links": [
     {
-      "name": "Instagram",
-      "url": "https://www.instagram.com/fabian.rosentha1/",
-      "image": "images/social/instagram.svg"
+      "name": "Threads",
+      "url": "https://www.threads.net/@the.fabian.rosenthal",
+      "image": "images/social/threads.svg"
     },
     {
-      "name": "Threads",
-      "url": "https://www.threads.net/@fabian.rosentha1",
-      "image": "images/social/threads.svg"
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@fabian.rosenthal",
+      "image": "images/social/youtube.svg"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/the.fabian.rosenthal/",
+      "image": "images/social/instagram.svg"
     },
     {
       "name": "GitHub",
       "url": "https://github.com/Xennis",
       "image": "images/social/github.svg"
-    },
-    {
-      "name": "YouTube",
-      "url": "https://www.youtube.com/@fabian-rosenthal",
-      "image": "images/social/youtube.svg"
     },
     {
       "name": "linkedin",
